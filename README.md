@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blazeangie
-- 👀 I’m interested in...data analysis
-- 🌱 I’m currently learning...working with CodestaDev
-- 💞️ I’m looking to collaborate on...any front end project
+- 👀 I’m a Technical / Data analyst
+- 🌱 Internship @ Ihihfix innovation hub
+- 💞️ I’m looking to collaborate on hands on data anlytics gig....SQL,Python,HTML,CSS.
 - 📫 How to reach me...ibrahimmasud262@gmail.com
 
 <!---
